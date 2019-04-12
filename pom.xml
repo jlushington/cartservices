@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.nodedynamics</groupId>
 	<artifactId>cartservices</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<name>cartservices</name>
 	<description>Evntxz Cart Services</description>
 
